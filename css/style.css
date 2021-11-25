@@ -52,6 +52,7 @@ div.container-form{
     align-items: center;
     padding: 20px;
     box-sizing: border-box;
+    background-color: white;
 }
 
 form{
