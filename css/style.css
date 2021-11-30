@@ -1661,7 +1661,7 @@ Segunda página
   }
   
   .ingredientes {
-    color: #f2a30f;
+    color: white;
     font-weight: bold;
     font-size: 30px;
   }
@@ -1673,14 +1673,14 @@ Segunda página
   }
 
   .informações {
-    color: #f2a30f;
+    color: white;
     font-weight: bold;
     font-size: 30px;
   }
   
    
   .criado {
-    color: #d93d1a;
+    color: #F28B0C;
     font-weight: bold;
     font-size: 25px;
     grid-gap: 2ch;
@@ -1692,14 +1692,14 @@ Segunda página
   }
 
   .nome {
-    color: #d93d1a;
+    color: #F28B0C;
     font-weight: arial;
     font-size: 25px;
     grid-gap: 2ch;
   }
 
   .publicar {
-    color: #d93d1a;
+    color: #F28B0C;
     font-family: arial;
     font-size: 25px;
     font-family: 700;
@@ -1712,15 +1712,15 @@ Segunda página
   }
 
   .publicar-red{
-      background:#d93d1a;
+      background:#F28B0C;
       color: #fff;
-      box-shadow:0 5px 0 #ac3317 ;
+      box-shadow:0 5px 0 #F28B0C ;
   }
 
   .publicar-red:hover{
-    background:#ac3317;
+    background:#f88902;
     color: #fff;
-    box-shadow:0 5px 0 #9b2e15 ;
+    box-shadow:0 5px 0 #c76e02 ;
 }
 
 .publicar-red:active{
@@ -1765,7 +1765,7 @@ textarea{
 }
 
 #ingredientes{
-    background-color:#F2F2F2;
+    background-color:#F28B0C;
     border-radius: 1em;
 
 }
@@ -1776,8 +1776,9 @@ textarea{
 }
 
 #InformaçõesdaReceita{
-    background-color:#F2F2F2;
+    background-color: #F28B0C;
     border-radius: 1em;
+    color: white;
 }
 
 
