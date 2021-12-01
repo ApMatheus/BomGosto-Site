@@ -1781,13 +1781,72 @@ textarea{
     color: white;
 }
 
+section.titulo{
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
 
-    
+section.section-ingredientes{
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+}
+
+.section-ingredientes h3{
+    width: 100%;
+    text-align: center;
+}
+
+.lista{
+    width: 40%;
+}
+
+.img-receita{
+    width:40%
+}
 
 
+.img-receita img{
+    width: 100%;
+}
 
+.receita-lista{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+}
 
+section.section-modo{
+    background-color:#F2F2F2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px ;
+    font-size: 28px;
+}
 
+section.section-modo h3{
+    text-align: center;
+    margin-bottom: 30px;
+}
 
+section.section-info{
+    background-color: #F28B0C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px;
+    font-size: 24px;
+    box-sizing: border-box;
+}
 
-
+section.section-info h3{
+    text-align: center;
+    margin-bottom: 30px;    
+}
