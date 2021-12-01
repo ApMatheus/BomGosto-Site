@@ -1850,3 +1850,18 @@ section.section-info h3{
     text-align: center;
     margin-bottom: 30px;    
 }
+
+.center_catalog a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.center_catalog a:visited{
+    text-decoration: none;
+    color: inherit;
+}
+
+.center_catalog a:hover{
+    text-decoration: none;
+    color: inherit;
+}
